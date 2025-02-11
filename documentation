@@ -1,0 +1,12 @@
+Project Title:
+TRIANGLE
+
+Purpose of Your Project:
+The purpose of this project is to draw a triangle using the turtle graphics in Python. It helps in learning how to use the turtle to make shapes.
+
+How the Program Works:
+The program uses a turtle to move forward by 100 units and then turns left by 120 degrees. It repeats this three times to make the three sides of the triangle, each side being 100 units long.
+
+How to Run Your Program:
+To run the program, first make sure Python is installed on your computer. Then, create a Python file (for example, triangle.py) and paste the code in it. 
+Open the command prompt or terminal, go to the folder where the file is saved, and type python triangle.py to run it. The turtle will draw the triangle on the screen.
